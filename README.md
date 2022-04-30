@@ -1,2 +1,2 @@
-# TEDU/CMPE114_LectureNotes_JAVA
+# TEDU/CMPE114-LectureNotes/JAVA
 Weekly lecture notes of TED University CMPE 114/211 course.
